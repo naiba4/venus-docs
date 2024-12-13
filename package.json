@@ -25,7 +25,7 @@
     "hoek": "4.2.1",
     "markdown-it": "^8.4.2",
     "markdown-it-emoji": "^1.4.0",
-    "npm": "6.14.6",
+    "npm": "10.5.1",
     "npx": "^10.2.2",
     "vuepress-plugin-check-md": "^0.0.2",
     "vuepress-plugin-code-copy": "^1.0.6",
