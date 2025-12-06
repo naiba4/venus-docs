@@ -1,5 +1,5 @@
 # build container stage
-FROM golang:1.18 AS build-env
+FROM golang:1.25.5 AS build-env
 
 RUN  sed -i 's/deb.debian.org/mirrors.ustc.edu.cn/g' /etc/apt/sources.list
 
